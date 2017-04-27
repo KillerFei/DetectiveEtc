@@ -1,0 +1,14 @@
+//
+//  PrefixHeader_DE.pch
+//  DetectiveEtc
+//
+//  Created by 岳鹏飞 on 2017/4/27.
+//  Copyright © 2017年 岳鹏飞. All rights reserved.
+//
+
+#ifndef PrefixHeader_DE_pch
+#define PrefixHeader_DE_pch
+
+#import "Config_DE.h"
+
+#endif /* PrefixHeader_DE_pch */
